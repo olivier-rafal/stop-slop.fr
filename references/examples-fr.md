@@ -93,3 +93,15 @@ Les exemples "après" suivent la voix WEnvision : faits précis, acteurs nommés
 > Les trois équipes produit de Decathlon qui ont déployé des filtres de validation en continu rapportent un cycle de release 30 % plus court qu'avant — parce qu'elles débogent moins en production. La lourdeur perçue était dans le patch, pas dans la prévention.
 
 **Changements :** Le H2 pose la vraie objection du lecteur (sans la nier d'avance). Le paragraphe la traite avec des données. "C'est tout l'inverse" disparaît — la démonstration le remplace.
+
+---
+
+## Exemple 8 : Tirets cadratins en cascade → phrases nettes
+
+**Avant :**
+> "Les modèles de langage — conçus pour maximiser la cohérence textuelle — produisent des sorties qui paraissent convaincantes, même lorsque les faits — dates, chiffres, noms — sont incorrects. Ce phénomène — souvent appelé hallucination — est documenté depuis 2022 — notamment par les équipes de Google DeepMind."
+
+**Après :**
+> "Les modèles de langage produisent des sorties convaincantes même quand les faits sont incorrects. Ce phénomène, appelé hallucination, est documenté depuis 2022, notamment par les équipes de Google DeepMind."
+
+**Changements :** Six tirets cadratins supprimés. Les incises redondantes ("conçus pour maximiser la cohérence textuelle", "dates, chiffres, noms") sont soit intégrées à la phrase principale, soit supprimées parce qu'elles paraphrasaient ce qui venait d'être dit. Le rythme devient lisible.

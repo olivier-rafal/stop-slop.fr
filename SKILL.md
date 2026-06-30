@@ -32,6 +32,8 @@ metadata:
 
 10. **Varier le rythme.** Les phrases courtes viennent d'un fait percutant ou d'une citation réelle — pas d'un effet stylistique. Pas de fragmentation staccato artificielle.
 
+11. **Tirets cadratins au compte-gouttes.** Le tiret cadratin (—) est légitime pour une incise ponctuelle ou une reformulation de fin de phrase. Le pattern LLM : une parenthèse explicative dans presque chaque phrase, souvent redondante avec ce qui précède. Deux tirets cadratins par paragraphe, c'est déjà beaucoup. Au-delà, reformuler en phrase séparée si l'incise apporte quelque chose, supprimer si elle paraphrase. Voir [references/examples-fr.md](references/examples-fr.md) exemple 8.
+
 ## Vérifications rapides
 
 Avant de livrer un texte :
@@ -46,6 +48,7 @@ Avant de livrer un texte :
 - Des majuscules non justifiées ("Intelligence Artificielle", "Harnais Technique") ? Corriger.
 - Des adverbes en -ment ("véritablement", "fondamentalement", "clairement") ? Supprimer ou reformuler.
 - Trois paragraphes suivent-ils le même schéma intro → liste → conclusion ? Casser le pattern.
+- Y a-t-il plus de deux tirets cadratins par paragraphe ? Reformuler les incises redondantes en phrases séparées ou les supprimer.
 
 ## Scoring
 
